@@ -28,3 +28,9 @@ function resetStoreVM (store, state, hot) {
 }
 // store._vm.$data.$$state === store.state
 ```
+## commit（mutation）
+通过commit（mutation）修改state数据的时候, committing标志位
+
+## dispatch（action)
+异步操作...
+在进行dispatch的第一个参数中获取state、commit等方法。之后,执行结果res会被进行判断是否是Promise,不是则会进行一层封装,将其转化成Promise对象
