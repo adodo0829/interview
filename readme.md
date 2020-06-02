@@ -30,6 +30,3 @@ MVVM 模式, 前后端分离等...
 问题输入 -> (程序) -> 结果输出
 
 我们可以从输入和输出的方面去回答问题也是可取的
-
-## 面试总结
-- [自如: 架构方向](https://github.com/appleguardu/interview/issues/1)

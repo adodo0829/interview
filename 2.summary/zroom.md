@@ -1,4 +1,4 @@
-# 自如总结(架构方向)
+# xx如总结(架构方向)
 - 流程
 ```
 1.常规的自我介绍
@@ -347,7 +347,8 @@ promise.catch()
 通用也可以通过函数组件实现, 样式通过设置类名, 给类名写好样式
 ```
 
-- 6.[React/Vue]Vue3.0/React Hooks 了解么简单说下？
+- 6.[React/Vue]Vue3.0/React Hooks 了解么简单说下？  
+https://github.com/vuejs/rfcs/tree/master/active-rfcs
 ```
 1.TypeScript 重写, 更好的 ts 支持
 2.性能更好
